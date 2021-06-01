@@ -1,0 +1,17 @@
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\bin\Debug\net5.0\Kata-Bank-OCR.exe
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\bin\Debug\net5.0\Kata-Bank-OCR.deps.json
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\bin\Debug\net5.0\Kata-Bank-OCR.runtimeconfig.json
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\bin\Debug\net5.0\Kata-Bank-OCR.runtimeconfig.dev.json
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\bin\Debug\net5.0\Kata-Bank-OCR.dll
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\bin\Debug\net5.0\ref\Kata-Bank-OCR.dll
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\bin\Debug\net5.0\Kata-Bank-OCR.pdb
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\obj\Debug\net5.0\Kata-Bank-OCR.csprojAssemblyReference.cache
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\obj\Debug\net5.0\Kata-Bank-OCR.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\obj\Debug\net5.0\Kata-Bank-OCR.AssemblyInfoInputs.cache
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\obj\Debug\net5.0\Kata-Bank-OCR.AssemblyInfo.cs
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\obj\Debug\net5.0\Kata-Bank-OCR.csproj.CoreCompileInputs.cache
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\obj\Debug\net5.0\Kata-Bank-OCR.dll
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\obj\Debug\net5.0\ref\Kata-Bank-OCR.dll
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\obj\Debug\net5.0\Kata-Bank-OCR.pdb
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\obj\Debug\net5.0\Kata-Bank-OCR.genruntimeconfig.cache
+D:\source\repos\pixie-dojo\Kata-Bank-OCR\C#\Kata-Bank-OCR\Kata-Bank-OCR\bin\Debug\net5.0\Test Cases.txt
