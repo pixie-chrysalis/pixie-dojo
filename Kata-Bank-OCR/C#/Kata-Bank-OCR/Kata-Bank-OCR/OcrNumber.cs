@@ -24,9 +24,9 @@ namespace Kata_Bank_OCR
 
         private bool IsNumber(char[,] number) => Source.Cast<char>().SequenceEqual(number.Cast<char>());
 
-        private static readonly char[,] One = { { ' ', ' ', '|' },
+        private static readonly char[,] One = { { ' ', ' ', ' ' },
                                                 { ' ', ' ', '|' },
-                                                { ' ', ' ', ' ' },
+                                                { ' ', ' ', '|' },
                                                 { ' ', ' ', ' ' } };
 
         private static readonly char[,] Two = { { ' ', '_', ' ' },
