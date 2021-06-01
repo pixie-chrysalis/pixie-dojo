@@ -10,7 +10,7 @@ namespace Kata_Bank_OCR
 
             foreach (var line in theFile.GetParsedNumbers())
             {
-                Console.WriteLine($"[{string.Concat(line, ", ")}]");
+                Console.WriteLine($"[{string.Join(", ", line)}]");
             }
         }
     }
